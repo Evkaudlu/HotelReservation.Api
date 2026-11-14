@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "hotelId": 1,
+    "number": "101",
+    "roomType": "Standard",
+    "capacity": 2,
+    "pricePerNight": 1800,
+    "isAvailable": true
+  },
+  {
+    "id": 2,
+    "hotelId": 1,
+    "number": "201",
+    "roomType": "Deluxe",
+    "capacity": 3,
+    "pricePerNight": 3200,
+    "isAvailable": true
+  },
+  {
+    "id": 3,
+    "hotelId": 2,
+    "number": "102",
+    "roomType": "Standard",
+    "capacity": 2,
+    "pricePerNight": 1500,
+    "isAvailable": true
+  },
+  {
+    "id": 4,
+    "hotelId": 2,
+    "number": "202",
+    "roomType": "Suite",
+    "capacity": 4,
+    "pricePerNight": 4000,
+    "isAvailable": true
+  },
+  {
+    "id": 5,
+    "hotelId": 3,
+    "number": "103",
+    "roomType": "Standard",
+    "capacity": 2,
+    "pricePerNight": 2000,
+    "isAvailable": true
+  },
+  {
+    "id": 6,
+    "hotelId": 3,
+    "number": "203",
+    "roomType": "Deluxe",
+    "capacity": 3,
+    "pricePerNight": 3500,
+    "isAvailable": true
+  },
+  {
+    "id": 7,
+    "hotelId": 4,
+    "number": "104",
+    "roomType": "Standard",
+    "capacity": 2,
+    "pricePerNight": 1700,
+    "isAvailable": true
+  },
+  {
+    "id": 8,
+    "hotelId": 4,
+    "number": "204",
+    "roomType": "Suite",
+    "capacity": 4,
+    "pricePerNight": 4500,
+    "isAvailable": true
+  },
+  {
+    "id": 9,
+    "hotelId": 5,
+    "number": "105",
+    "roomType": "Standard",
+    "capacity": 2,
+    "pricePerNight": 1400,
+    "isAvailable": true
+  },
+  {
+    "id": 10,
+    "hotelId": 5,
+    "number": "205",
+    "roomType": "Deluxe",
+    "capacity": 3,
+    "pricePerNight": 2800,
+    "isAvailable": true
+  }
+]

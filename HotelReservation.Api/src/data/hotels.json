@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Dnipro Riverside Hotel",
+    "city": "Київ",
+    "address": "вул. Набережна, 12",
+    "rating": 5,
+    "openingDate": "2020-06-15"
+  },
+  {
+    "id": 2,
+    "name": "Lviv Central Hotel",
+    "city": "Львів",
+    "address": "вул. Городоцька, 25",
+    "rating": 4,
+    "openingDate": "2019-04-10"
+  },
+  {
+    "id": 3,
+    "name": "Odesa Sea View",
+    "city": "Одеса",
+    "address": "вул. Приморська, 8",
+    "rating": 5,
+    "openingDate": "2021-07-20"
+  },
+  {
+    "id": 4,
+    "name": "Carpathian Mountain Resort",
+    "city": "Яремче",
+    "address": "вул. Свободи, 45",
+    "rating": 4,
+    "openingDate": "2018-12-01"
+  },
+  {
+    "id": 5,
+    "name": "Kharkiv City Hotel",
+    "city": "Харків",
+    "address": "вул. Сумська, 30",
+    "rating": 3,
+    "openingDate": "2022-03-05"
+  }
+]

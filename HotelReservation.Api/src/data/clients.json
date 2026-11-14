@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "firstName": "Олена",
+    "lastName": "Коваленко",
+    "email": "olena.kovalenko@example.com",
+    "phoneNumber": "+380501110101",
+    "registrationDate": "2026-01-15"
+  },
+  {
+    "id": 2,
+    "firstName": "Андрій",
+    "lastName": "Шевченко",
+    "email": "andrii.shevchenko@example.com",
+    "phoneNumber": "+380501110102",
+    "registrationDate": "2026-02-10"
+  },
+  {
+    "id": 3,
+    "firstName": "Марія",
+    "lastName": "Бондаренко",
+    "email": "mariia.bondarenko@example.com",
+    "phoneNumber": "+380501110103",
+    "registrationDate": "2026-02-20"
+  },
+  {
+    "id": 4,
+    "firstName": "Іван",
+    "lastName": "Мельник",
+    "email": "ivan.melnyk@example.com",
+    "phoneNumber": "+380501110104",
+    "registrationDate": "2026-03-12"
+  },
+  {
+    "id": 5,
+    "firstName": "Софія",
+    "lastName": "Ткаченко",
+    "email": "sofiia.tkachenko@example.com",
+    "phoneNumber": "+380501110105",
+    "registrationDate": "2026-04-05"
+  },
+  {
+    "id": 6,
+    "firstName": "Дмитро",
+    "lastName": "Кравченко",
+    "email": "dmytro.kravchenko@example.com",
+    "phoneNumber": "+380501110106",
+    "registrationDate": "2026-05-17"
+  },
+  {
+    "id": 7,
+    "firstName": "Анна",
+    "lastName": "Поліщук",
+    "email": "anna.polishchuk@example.com",
+    "phoneNumber": "+380501110107",
+    "registrationDate": "2026-06-08"
+  },
+  {
+    "id": 8,
+    "firstName": "Максим",
+    "lastName": "Савченко",
+    "email": "maksym.savchenko@example.com",
+    "phoneNumber": "+380501110108",
+    "registrationDate": "2026-07-21"
+  },
+  {
+    "id": 9,
+    "firstName": "Катерина",
+    "lastName": "Гриценко",
+    "email": "kateryna.hrytsenko@example.com",
+    "phoneNumber": "+380501110109",
+    "registrationDate": "2026-08-14"
+  },
+  {
+    "id": 10,
+    "firstName": "Олександр",
+    "lastName": "Романюк",
+    "email": "oleksandr.romaniuk@example.com",
+    "phoneNumber": "+380501110110",
+    "registrationDate": "2026-09-03"
+  }
+]

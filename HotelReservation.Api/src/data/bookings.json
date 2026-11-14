@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "roomId": 1,
+    "clientId": 1,
+    "checkInDate": "2026-11-16",
+    "checkOutDate": "2026-11-18",
+    "totalPrice": 3600,
+    "status": "Cancelled",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 2,
+    "roomId": 2,
+    "clientId": 2,
+    "checkInDate": "2026-11-17",
+    "checkOutDate": "2026-11-20",
+    "totalPrice": 9600,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 3,
+    "roomId": 3,
+    "clientId": 3,
+    "checkInDate": "2026-11-18",
+    "checkOutDate": "2026-11-22",
+    "totalPrice": 6000,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 4,
+    "roomId": 4,
+    "clientId": 4,
+    "checkInDate": "2026-11-19",
+    "checkOutDate": "2026-11-21",
+    "totalPrice": 8000,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 5,
+    "roomId": 5,
+    "clientId": 5,
+    "checkInDate": "2026-11-20",
+    "checkOutDate": "2026-11-23",
+    "totalPrice": 6000,
+    "status": "Pending",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 6,
+    "roomId": 6,
+    "clientId": 6,
+    "checkInDate": "2026-11-16",
+    "checkOutDate": "2026-11-20",
+    "totalPrice": 14000,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 7,
+    "roomId": 7,
+    "clientId": 7,
+    "checkInDate": "2026-11-17",
+    "checkOutDate": "2026-11-19",
+    "totalPrice": 3400,
+    "status": "Cancelled",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 8,
+    "roomId": 8,
+    "clientId": 8,
+    "checkInDate": "2026-11-18",
+    "checkOutDate": "2026-11-21",
+    "totalPrice": 13500,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 9,
+    "roomId": 9,
+    "clientId": 9,
+    "checkInDate": "2026-11-19",
+    "checkOutDate": "2026-11-23",
+    "totalPrice": 5600,
+    "status": "Pending",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 10,
+    "roomId": 10,
+    "clientId": 10,
+    "checkInDate": "2026-11-20",
+    "checkOutDate": "2026-11-22",
+    "totalPrice": 5600,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 11,
+    "roomId": 1,
+    "clientId": 1,
+    "checkInDate": "2026-11-23",
+    "checkOutDate": "2026-11-26",
+    "totalPrice": 5400,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 12,
+    "roomId": 2,
+    "clientId": 2,
+    "checkInDate": "2026-11-24",
+    "checkOutDate": "2026-11-28",
+    "totalPrice": 12800,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 13,
+    "roomId": 3,
+    "clientId": 3,
+    "checkInDate": "2026-11-25",
+    "checkOutDate": "2026-11-27",
+    "totalPrice": 3000,
+    "status": "Cancelled",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 14,
+    "roomId": 4,
+    "clientId": 4,
+    "checkInDate": "2026-11-26",
+    "checkOutDate": "2026-11-29",
+    "totalPrice": 12000,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 15,
+    "roomId": 5,
+    "clientId": 5,
+    "checkInDate": "2026-11-27",
+    "checkOutDate": "2026-12-01",
+    "totalPrice": 8000,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 16,
+    "roomId": 6,
+    "clientId": 6,
+    "checkInDate": "2026-11-23",
+    "checkOutDate": "2026-11-25",
+    "totalPrice": 7000,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 17,
+    "roomId": 7,
+    "clientId": 7,
+    "checkInDate": "2026-11-24",
+    "checkOutDate": "2026-11-27",
+    "totalPrice": 5100,
+    "status": "Pending",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 18,
+    "roomId": 8,
+    "clientId": 8,
+    "checkInDate": "2026-11-25",
+    "checkOutDate": "2026-11-29",
+    "totalPrice": 18000,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 19,
+    "roomId": 9,
+    "clientId": 9,
+    "checkInDate": "2026-11-26",
+    "checkOutDate": "2026-11-28",
+    "totalPrice": 2800,
+    "status": "Cancelled",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 20,
+    "roomId": 10,
+    "clientId": 10,
+    "checkInDate": "2026-11-27",
+    "checkOutDate": "2026-11-30",
+    "totalPrice": 8400,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 21,
+    "roomId": 1,
+    "clientId": 1,
+    "checkInDate": "2026-11-30",
+    "checkOutDate": "2026-12-04",
+    "totalPrice": 7200,
+    "status": "Pending",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 22,
+    "roomId": 2,
+    "clientId": 2,
+    "checkInDate": "2026-12-01",
+    "checkOutDate": "2026-12-03",
+    "totalPrice": 6400,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 23,
+    "roomId": 3,
+    "clientId": 3,
+    "checkInDate": "2026-12-02",
+    "checkOutDate": "2026-12-05",
+    "totalPrice": 4500,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 24,
+    "roomId": 4,
+    "clientId": 4,
+    "checkInDate": "2026-12-03",
+    "checkOutDate": "2026-12-07",
+    "totalPrice": 16000,
+    "status": "Confirmed",
+    "bookingDate": "2026-11-14"
+  },
+  {
+    "id": 25,
+    "roomId": 5,
+    "clientId": 5,
+    "checkInDate": "2026-12-04",
+    "checkOutDate": "2026-12-06",
+    "totalPrice": 4000,
+    "status": "Cancelled",
+    "bookingDate": "2026-11-14"
+  }
+]
